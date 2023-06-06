@@ -1,4 +1,4 @@
-# AMPscriptCreateDEentryswithuniqueID
+# AMPscript_create_DE_rows_withuniqueID's_as_primary_key
 AMPscript - CreateDE entrys with uniqueID's as primary key
 
 **Salesforce Marketing Cloud
